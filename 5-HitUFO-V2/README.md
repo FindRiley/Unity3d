@@ -1,6 +1,6 @@
 # Unity3d 打飞碟-物理运动版
 
-[视频演示还在审核中]()
+[视频演示](https://www.bilibili.com/video/av71667504/)
 
 ## 题目要求
 
