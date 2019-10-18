@@ -1,7 +1,5 @@
 # Unity3d 打飞碟-物理运动版
 
-[github 传送](https://github.com/LeoBarwoo/Unity3d/tree/master/5-HitUFO-V2)
-
 [视频演示还在审核中]()
 
 ## 题目要求
