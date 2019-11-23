@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class IMGUI : MonoBehaviour {
     Rect bloodBar, upButton, downButton;
-    float length = 100f;
+    float length = 120f;
     float curValue, value;
     void Start() {
         bloodBar = new Rect(0, 0, 60, 20);
