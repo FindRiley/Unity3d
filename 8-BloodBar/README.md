@@ -1,4 +1,4 @@
-效果视频 [审核中]()
+效果视频 [https://www.bilibili.com/video/av76787677/](https://www.bilibili.com/video/av76787677/)
 
 **IMGUI 和 UGUI 实现的优缺点**
 
